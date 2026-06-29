@@ -1,0 +1,10 @@
+Recursion is a programming technique in which a method calls itself to solve a problem. A recursive function solves a problem by breaking it into smaller subproblems until it reaches a base case, where the recursion stops.
+
+Advantages:
+-> Makes code shorter and easier to understand.
+-> Useful for problems that can be divided into smaller subproblems.
+-> Commonly used in tree traversal, graph algorithms, divide-and-conquer algorithms, and mathematical computations.
+-> Components of Recursion
+
+Base Case – Stops the recursion.
+Recursive Case – Calls the same function with a smaller problem.
