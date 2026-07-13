@@ -1,0 +1,11 @@
+Folder Explanation
+1. src/main/java - Java source code.
+2. src/main/resources - application.properties.
+3. src/test/java - Unit test classes.
+4. @SpringBootApplication = Configuration + ComponentScan + EnableAutoConfiguration.
+5. pom.xml contains project metadata and dependencies.
+Expected Output:
+Inside main
+Start
+countries=[Country{code='IN', name='India'}, Country{code='US', name='United States of America'}]
+End
