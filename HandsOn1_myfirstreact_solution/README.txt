@@ -1,0 +1,1 @@
+Use `npx create-react-app myfirstreact`, then replace src/App.js, src/index.js, src/index.css with these files and run `npm start`.
